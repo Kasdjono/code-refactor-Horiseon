@@ -5,13 +5,14 @@
 - changed title to "Horiseon"
 
 - created a <header>  section
+        - inside header section i added <nav> section
 
-- created a <section> section for the main content: 
+- created a <section>/<article> section for the main content: 
         - search engine optimization
         - online reputation  management
         - social media  marketing
 
-- created a <article> section for the benefits content:
+- created a <section>/<aside> section for the benefits content:
         - lead generation
         - brand awareness
         - cost management
@@ -27,5 +28,9 @@
 - fixed the "search engine optimization" function in the nav bar @ top of screen
         - added an "id" function that links the search engine optimization
           section to the link in the nav bar
+
+- adjused code for the large image for the uppper half of the screen
+        - put the source for the image in html file instead of css file
+        - changed it to <figure> instead of <div>
 
 
